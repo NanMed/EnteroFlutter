@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+edu/itesm/flutter/hope/BuildConfig.java
+ edu.itesm.flutter.hope.BuildConfig

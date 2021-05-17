@@ -1,0 +1,4 @@
+#Tue May 11 13:06:19 CDT 2021
+base.0=/Users/nancymedina/AndroidStudioProjects/hope/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
